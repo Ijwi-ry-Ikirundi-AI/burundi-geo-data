@@ -12,8 +12,8 @@ Le fichier `burundi-geo.json` regroupe l'ensemble du découpage administratif :
 |--------------------|--------|
 | Provinces          | 5      |
 | Communes           | 42     |
-| Zones              | 450    |
-| Collines/Quartiers | 3 002  |
+| Zones              | 451    |
+| Collines/Quartiers | 3 044  |
 
 ---
 
@@ -21,11 +21,11 @@ Le fichier `burundi-geo.json` regroupe l'ensemble du découpage administratif :
 
 | Province        | Capitale   | Communes | Zones | Collines/Quartiers |
 |-----------------|------------|----------|-------|---------------------|
-| **Buhumuza** (`BH`)    | Cankuzo    | 7        | 59    | 473                 |
+| **Buhumuza** (`BH`)    | Cankuzo    | 7        | 64    | 509                 |
 | **Bujumbura** (`BJ`)   | Bujumbura  | 11       | 95    | 535                 |
-| **Burunga** (`BR`)     | Makamba    | 7        | 93    | 548                 |
-| **Butanyerera** (`BT`) | Ngozi      | 8        | 102   | 783                 |
-| **Gitega** (`GT`)      | Gitega     | 9        | 101   | 663                 |
+| **Burunga** (`BR`)     | Makamba    | 7        | 89    | 546                 |
+| **Butanyerera** (`BT`) | Ngozi      | 8        | 102   | 790                 |
+| **Gitega** (`GT`)      | Gitega     | 9        | 101   | 664                 |
 
 ---
 
@@ -107,8 +107,8 @@ Voici un extrait (liste raccourcie) pour illustrer la structure :
       "capital": "Cankuzo",
       "stats": {
         "communes": 7,
-        "zones": 59,
-        "hills_neighborhoods": 473,
+        "zones": 64,
+        "hills_neighborhoods": 509,
         "population": { "value": 2052261, "year": 2024 }
       },
       "communes": [
@@ -390,6 +390,12 @@ Les corrections sont les bienvenues.
 3. Ne modifiez et ne réutilisez jamais un `id` publié. Un nouvel élément reçoit le numéro libre suivant.
 4. Après chaque ajout ou suppression, mettez à jour les `stats` de la province et les tableaux de ce README.
 5. Vérifiez que le fichier JSON reste valide et encodé en UTF-8.
+
+---
+
+## Sources
+
+Les zones et les collines ou quartiers ont été vérifiés avec les limites administratives du Burundi (version v02) publiées sur [HDX](https://data.humdata.org/dataset/cod-ab-bdi), source : IGEBU et OCHA, sous licence Creative Commons Attribution for Intergovernmental Organisations. Les aires protégées et les entrées « Champ de Tir » ne sont pas incluses. Certaines orthographes peuvent différer de cette source.
 
 ---
 

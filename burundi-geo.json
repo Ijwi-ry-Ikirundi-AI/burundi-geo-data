@@ -7,8 +7,8 @@
       "capital": "Cankuzo",
       "stats": {
         "communes": 7,
-        "zones": 59,
-        "hills_neighborhoods": 473,
+        "zones": 64,
+        "hills_neighborhoods": 509,
         "population": { "value": 2052261, "year": 2024 }
       },
       "communes": [
@@ -203,6 +203,72 @@
                 { "id": "BH-C02-Z08-H07", "name": "Mugongo" },
                 { "id": "BH-C02-Z08-H08", "name": "Murehe" },
                 { "id": "BH-C02-Z08-H09", "name": "Rwamfu" }
+              ]
+            },
+            {
+              "id": "BH-C02-Z09",
+              "name": "Masaka",
+              "hills_neighborhoods": [
+                { "id": "BH-C02-Z09-H01", "name": "Cagakori" },
+                { "id": "BH-C02-Z09-H02", "name": "Kayove" },
+                { "id": "BH-C02-Z09-H03", "name": "Kijumbura" },
+                { "id": "BH-C02-Z09-H04", "name": "Masaka" },
+                { "id": "BH-C02-Z09-H05", "name": "Ngomo" },
+                { "id": "BH-C02-Z09-H06", "name": "Nzove" },
+                { "id": "BH-C02-Z09-H07", "name": "Rukusha" }
+              ]
+            },
+            {
+              "id": "BH-C02-Z10",
+              "name": "Mugano",
+              "hills_neighborhoods": [
+                { "id": "BH-C02-Z10-H01", "name": "Kabogo" },
+                { "id": "BH-C02-Z10-H02", "name": "Mangoma" },
+                { "id": "BH-C02-Z10-H03", "name": "Mika" },
+                { "id": "BH-C02-Z10-H04", "name": "Mugano" },
+                { "id": "BH-C02-Z10-H05", "name": "Mukoni" },
+                { "id": "BH-C02-Z10-H06", "name": "Ndava" },
+                { "id": "BH-C02-Z10-H07", "name": "Rubenga" }
+              ]
+            },
+            {
+              "id": "BH-C02-Z11",
+              "name": "Nyagatovu",
+              "hills_neighborhoods": [
+                { "id": "BH-C02-Z11-H01", "name": "Bunyarukiga" },
+                { "id": "BH-C02-Z11-H02", "name": "Buvumbi" },
+                { "id": "BH-C02-Z11-H03", "name": "Musama" },
+                { "id": "BH-C02-Z11-H04", "name": "Kobero" },
+                { "id": "BH-C02-Z11-H05", "name": "Murama" },
+                { "id": "BH-C02-Z11-H06", "name": "Gitaramuka" },
+                { "id": "BH-C02-Z11-H07", "name": "Nyagatovu" }
+              ]
+            },
+            {
+              "id": "BH-C02-Z12",
+              "name": "Ruzo",
+              "hills_neighborhoods": [
+                { "id": "BH-C02-Z12-H01", "name": "Bugoma" },
+                { "id": "BH-C02-Z12-H02", "name": "Kabira" },
+                { "id": "BH-C02-Z12-H03", "name": "Kagugo" },
+                { "id": "BH-C02-Z12-H04", "name": "Kidasha" },
+                { "id": "BH-C02-Z12-H05", "name": "Rusenyi" },
+                { "id": "BH-C02-Z12-H06", "name": "Ruzo" },
+                { "id": "BH-C02-Z12-H07", "name": "Vumasi" }
+              ]
+            },
+            {
+              "id": "BH-C02-Z13",
+              "name": "Tura",
+              "hills_neighborhoods": [
+                { "id": "BH-C02-Z13-H01", "name": "Buhangara" },
+                { "id": "BH-C02-Z13-H02", "name": "Gakoni" },
+                { "id": "BH-C02-Z13-H03", "name": "Kinanira" },
+                { "id": "BH-C02-Z13-H04", "name": "Kinyami" },
+                { "id": "BH-C02-Z13-H05", "name": "Mibakwe" },
+                { "id": "BH-C02-Z13-H06", "name": "Mihigo" },
+                { "id": "BH-C02-Z13-H07", "name": "Murama" },
+                { "id": "BH-C02-Z13-H08", "name": "Tura" }
               ]
             }
           ]
@@ -574,7 +640,7 @@
                 { "id": "BH-C06-Z03-H06", "name": "Mizuga" },
                 { "id": "BH-C06-Z03-H07", "name": "Nyamirambo" },
                 { "id": "BH-C06-Z03-H08", "name": "Nyarusange" },
-                { "id": "BH-C06-Z03-H09", "name": "Ruganigwa" }
+                { "id": "BH-C06-Z03-H09", "name": "Ruganirwa" }
               ]
             },
             {
@@ -759,7 +825,7 @@
                 { "id": "BH-C06-Z16-H02", "name": "Gatongati" },
                 { "id": "BH-C06-Z16-H03", "name": "Kinazi" },
                 { "id": "BH-C06-Z16-H04", "name": "Mahonda" },
-                { "id": "BH-C06-Z16-H05", "name": "Migogo" },
+                { "id": "BH-C06-Z16-H05", "name": "Migongo" },
                 { "id": "BH-C06-Z16-H06", "name": "Rugari" },
                 { "id": "BH-C06-Z16-H07", "name": "Rutoke" },
                 { "id": "BH-C06-Z16-H08", "name": "Ruyiyi" }
@@ -2073,8 +2139,8 @@
       "capital": "Makamba",
       "stats": {
         "communes": 7,
-        "zones": 93,
-        "hills_neighborhoods": 548,
+        "zones": 89,
+        "hills_neighborhoods": 546,
         "population": { "value": 2118551, "year": 2024 }
       },
       "communes": [
@@ -2307,7 +2373,9 @@
                 { "id": "BR-C02-Z07-H05", "name": "Mpinga" },
                 { "id": "BR-C02-Z07-H06", "name": "Mugutu" },
                 { "id": "BR-C02-Z07-H07", "name": "Murambi" },
-                { "id": "BR-C02-Z07-H08", "name": "Murango" }
+                { "id": "BR-C02-Z07-H08", "name": "Murango" },
+                { "id": "BR-C02-Z07-H09", "name": "Muvumu" },
+                { "id": "BR-C02-Z07-H10", "name": "Nyabangwe" }
               ]
             },
             {
@@ -2319,10 +2387,8 @@
                 { "id": "BR-C02-Z08-H03", "name": "Kanzege" },
                 { "id": "BR-C02-Z08-H04", "name": "Munonotsi" },
                 { "id": "BR-C02-Z08-H05", "name": "Musanga" },
-                { "id": "BR-C02-Z08-H06", "name": "Muvumu" },
-                { "id": "BR-C02-Z08-H07", "name": "Nyabangwe" },
-                { "id": "BR-C02-Z08-H08", "name": "Rabiro" },
-                { "id": "BR-C02-Z08-H09", "name": "Siza" }
+                { "id": "BR-C02-Z08-H06", "name": "Rabiro" },
+                { "id": "BR-C02-Z08-H07", "name": "Siza" }
               ]
             },
             {
@@ -2392,6 +2458,26 @@
                 { "id": "BR-C02-Z13-H11", "name": "Quartier Rugarama" },
                 { "id": "BR-C02-Z13-H12", "name": "Quartier Rukanko" },
                 { "id": "BR-C02-Z13-H13", "name": "Quartier Swahili" }
+              ]
+            },
+            {
+              "id": "BR-C02-Z14",
+              "name": "Mugeni",
+              "hills_neighborhoods": [
+                { "id": "BR-C02-Z14-H01", "name": "Buhema" },
+                { "id": "BR-C02-Z14-H02", "name": "Bujondi" },
+                { "id": "BR-C02-Z14-H03", "name": "Kigomagoma" },
+                { "id": "BR-C02-Z14-H04", "name": "Kiyange" },
+                { "id": "BR-C02-Z14-H05", "name": "Mugeni" }
+              ]
+            },
+            {
+              "id": "BR-C02-Z15",
+              "name": "Nyange",
+              "hills_neighborhoods": [
+                { "id": "BR-C02-Z15-H01", "name": "Mihongo" },
+                { "id": "BR-C02-Z15-H02", "name": "Ndago" },
+                { "id": "BR-C02-Z15-H03", "name": "Ruremba" }
               ]
             }
           ]
@@ -2569,9 +2655,8 @@
                 { "id": "BR-C04-Z01-H04", "name": "Kibimba" },
                 { "id": "BR-C04-Z01-H05", "name": "Mutwana" },
                 { "id": "BR-C04-Z01-H06", "name": "Mwebeya" },
-                { "id": "BR-C04-Z01-H07", "name": "Nkanka" },
-                { "id": "BR-C04-Z01-H08", "name": "Rubanga" },
-                { "id": "BR-C04-Z01-H09", "name": "Shasha" }
+                { "id": "BR-C04-Z01-H07", "name": "Rubanga" },
+                { "id": "BR-C04-Z01-H08", "name": "Shasha" }
               ]
             },
             {
@@ -2594,9 +2679,8 @@
               "hills_neighborhoods": [
                 { "id": "BR-C04-Z03-H01", "name": "Gatakazi" },
                 { "id": "BR-C04-Z03-H02", "name": "Kagunga" },
-                { "id": "BR-C04-Z03-H03", "name": "Maganahe" },
-                { "id": "BR-C04-Z03-H04", "name": "Rusunu" },
-                { "id": "BR-C04-Z03-H05", "name": "Yove" }
+                { "id": "BR-C04-Z03-H03", "name": "Rusunu" },
+                { "id": "BR-C04-Z03-H04", "name": "Yove" }
               ]
             },
             {
@@ -2679,7 +2763,8 @@
                 { "id": "BR-C04-Z09-H03", "name": "Kamaramagambo" },
                 { "id": "BR-C04-Z09-H04", "name": "Nyabigozi" },
                 { "id": "BR-C04-Z09-H05", "name": "Nyabisindu" },
-                { "id": "BR-C04-Z09-H06", "name": "Runyoni" }
+                { "id": "BR-C04-Z09-H06", "name": "Runyoni" },
+                { "id": "BR-C04-Z09-H07", "name": "Maganahe" }
               ]
             },
             {
@@ -2691,7 +2776,8 @@
                 { "id": "BR-C04-Z10-H03", "name": "Murehe" },
                 { "id": "BR-C04-Z10-H04", "name": "Muzye" },
                 { "id": "BR-C04-Z10-H05", "name": "Nyembuye" },
-                { "id": "BR-C04-Z10-H06", "name": "Shembe" }
+                { "id": "BR-C04-Z10-H06", "name": "Shembe" },
+                { "id": "BR-C04-Z10-H07", "name": "Nkanka" }
               ]
             },
             {
@@ -3079,149 +3165,103 @@
                 { "id": "BR-C07-Z03-H06", "name": "Gitaba" },
                 { "id": "BR-C07-Z03-H07", "name": "Kinganda" },
                 { "id": "BR-C07-Z03-H08", "name": "Maramvya" },
-                { "id": "BR-C07-Z03-H09", "name": "Mika" }
+                { "id": "BR-C07-Z03-H09", "name": "Mika" },
+                { "id": "BR-C07-Z03-H10", "name": "Mungwa" },
+                { "id": "BR-C07-Z03-H11", "name": "Nyamure" },
+                { "id": "BR-C07-Z03-H12", "name": "Nyanzuki" },
+                { "id": "BR-C07-Z03-H13", "name": "Ruregeya" }
               ]
             },
             {
               "id": "BR-C07-Z04",
-              "name": "Busoni",
+              "name": "Gitanga",
               "hills_neighborhoods": [
-                { "id": "BR-C07-Z04-H01", "name": "Burara" },
-                { "id": "BR-C07-Z04-H02", "name": "Gatare" },
-                { "id": "BR-C07-Z04-H03", "name": "Gatete" },
-                { "id": "BR-C07-Z04-H04", "name": "Kigoma" },
-                { "id": "BR-C07-Z04-H05", "name": "Kivo" },
-                { "id": "BR-C07-Z04-H06", "name": "Munazi" },
-                { "id": "BR-C07-Z04-H07", "name": "Nyakizu" }
+                { "id": "BR-C07-Z04-H01", "name": "Bigina" },
+                { "id": "BR-C07-Z04-H02", "name": "Cikinga" },
+                { "id": "BR-C07-Z04-H03", "name": "Gatwaro" },
+                { "id": "BR-C07-Z04-H04", "name": "Gitanga" },
+                { "id": "BR-C07-Z04-H05", "name": "Kazeba" },
+                { "id": "BR-C07-Z04-H06", "name": "Kiremba" },
+                { "id": "BR-C07-Z04-H07", "name": "Museno" },
+                { "id": "BR-C07-Z04-H08", "name": "Ntuku" },
+                { "id": "BR-C07-Z04-H09", "name": "Nyabikenke" }
               ]
             },
             {
               "id": "BR-C07-Z05",
-              "name": "Bwambarangwe",
+              "name": "Kinzanza",
               "hills_neighborhoods": [
-                { "id": "BR-C07-Z05-H01", "name": "Budahunga" },
-                { "id": "BR-C07-Z05-H02", "name": "Butegana" },
-                { "id": "BR-C07-Z05-H03", "name": "Kabirizi" },
-                { "id": "BR-C07-Z05-H04", "name": "Kabuyenge" },
-                { "id": "BR-C07-Z05-H05", "name": "Mukenke" }
+                { "id": "BR-C07-Z05-H01", "name": "Cunda" },
+                { "id": "BR-C07-Z05-H02", "name": "Kabago" },
+                { "id": "BR-C07-Z05-H03", "name": "Kabanga" },
+                { "id": "BR-C07-Z05-H04", "name": "Kinzanza" },
+                { "id": "BR-C07-Z05-H05", "name": "Maramvya" },
+                { "id": "BR-C07-Z05-H06", "name": "Nyamabuye" },
+                { "id": "BR-C07-Z05-H07", "name": "Rukobe" }
               ]
             },
             {
               "id": "BR-C07-Z06",
-              "name": "Cumba",
+              "name": "Kivoga",
               "hills_neighborhoods": [
-                { "id": "BR-C07-Z06-H01", "name": "Burwana" },
-                { "id": "BR-C07-Z06-H02", "name": "Cumba" },
-                { "id": "BR-C07-Z06-H03", "name": "Nkomero" },
-                { "id": "BR-C07-Z06-H04", "name": "Tonga" }
+                { "id": "BR-C07-Z06-H01", "name": "Gitaramuka" },
+                { "id": "BR-C07-Z06-H02", "name": "Kivoga" },
+                { "id": "BR-C07-Z06-H03", "name": "Matutu" },
+                { "id": "BR-C07-Z06-H04", "name": "Musenyi" },
+                { "id": "BR-C07-Z06-H05", "name": "Nyarubimba" },
+                { "id": "BR-C07-Z06-H06", "name": "Ramvya" }
               ]
             },
             {
               "id": "BR-C07-Z07",
-              "name": "Gisenyi",
+              "name": "Nyakuguma",
               "hills_neighborhoods": [
                 { "id": "BR-C07-Z07-H01", "name": "Gisenyi" },
-                { "id": "BR-C07-Z07-H02", "name": "Higiro" },
-                { "id": "BR-C07-Z07-H03", "name": "Kibonde" },
-                { "id": "BR-C07-Z07-H04", "name": "Marembo" },
-                { "id": "BR-C07-Z07-H05", "name": "Muhuzu" },
-                { "id": "BR-C07-Z07-H06", "name": "Murambi" },
-                { "id": "BR-C07-Z07-H07", "name": "Nyabisindu" },
-                { "id": "BR-C07-Z07-H08", "name": "Rugarama" },
-                { "id": "BR-C07-Z07-H09", "name": "Rwibikara" }
+                { "id": "BR-C07-Z07-H02", "name": "Kivoma" },
+                { "id": "BR-C07-Z07-H03", "name": "Musongati" },
+                { "id": "BR-C07-Z07-H04", "name": "Mutsindozi" },
+                { "id": "BR-C07-Z07-H05", "name": "Muyange" },
+                { "id": "BR-C07-Z07-H06", "name": "Ngoma" },
+                { "id": "BR-C07-Z07-H07", "name": "Nyagisambwe" },
+                { "id": "BR-C07-Z07-H08", "name": "Nyakuguma" },
+                { "id": "BR-C07-Z07-H09", "name": "Samahuge" }
               ]
             },
             {
               "id": "BR-C07-Z08",
-              "name": "Gitobe",
+              "name": "Rongero",
               "hills_neighborhoods": [
-                { "id": "BR-C07-Z08-H01", "name": "Butahana" },
-                { "id": "BR-C07-Z08-H02", "name": "Butihinda" },
-                { "id": "BR-C07-Z08-H03", "name": "Gahosha" },
-                { "id": "BR-C07-Z08-H04", "name": "Gasuga" },
-                { "id": "BR-C07-Z08-H05", "name": "Rungazi" }
+                { "id": "BR-C07-Z08-H01", "name": "Butambara" },
+                { "id": "BR-C07-Z08-H02", "name": "Butovyi" },
+                { "id": "BR-C07-Z08-H03", "name": "Karinzi" },
+                { "id": "BR-C07-Z08-H04", "name": "Kibinzi" },
+                { "id": "BR-C07-Z08-H05", "name": "Mwayi" },
+                { "id": "BR-C07-Z08-H06", "name": "Ntuku" },
+                { "id": "BR-C07-Z08-H07", "name": "Rongero" },
+                { "id": "BR-C07-Z08-H08", "name": "Rushemeza" },
+                { "id": "BR-C07-Z08-H09", "name": "Rusunu" }
               ]
             },
             {
               "id": "BR-C07-Z09",
-              "name": "Kabanga",
+              "name": "Rutana",
               "hills_neighborhoods": [
-                { "id": "BR-C07-Z09-H01", "name": "Buhimba" },
-                { "id": "BR-C07-Z09-H02", "name": "Buringa" },
-                { "id": "BR-C07-Z09-H03", "name": "Kabanga" },
-                { "id": "BR-C07-Z09-H04", "name": "Karambo" },
-                { "id": "BR-C07-Z09-H05", "name": "Kididiri" },
-                { "id": "BR-C07-Z09-H06", "name": "Rurende" }
-              ]
-            },
-            {
-              "id": "BR-C07-Z10",
-              "name": "Kimeza",
-              "hills_neighborhoods": [
-                { "id": "BR-C07-Z10-H01", "name": "Gasave" },
-                { "id": "BR-C07-Z10-H02", "name": "Kibazi" },
-                { "id": "BR-C07-Z10-H03", "name": "Kimeza" },
-                { "id": "BR-C07-Z10-H04", "name": "Mugongo" },
-                { "id": "BR-C07-Z10-H05", "name": "Ruyenzi" }
-              ]
-            },
-            {
-              "id": "BR-C07-Z11",
-              "name": "Mukerwa",
-              "hills_neighborhoods": [
-                { "id": "BR-C07-Z11-H01", "name": "Kagege" },
-                { "id": "BR-C07-Z11-H02", "name": "Kiravumba" },
-                { "id": "BR-C07-Z11-H03", "name": "Mugobe" },
-                { "id": "BR-C07-Z11-H04", "name": "Mukerwa" },
-                { "id": "BR-C07-Z11-H05", "name": "Munyinya" },
-                { "id": "BR-C07-Z11-H06", "name": "Renga" },
-                { "id": "BR-C07-Z11-H07", "name": "Runyinya" }
-              ]
-            },
-            {
-              "id": "BR-C07-Z12",
-              "name": "Murore",
-              "hills_neighborhoods": [
-                { "id": "BR-C07-Z12-H01", "name": "Gatemere" },
-                { "id": "BR-C07-Z12-H02", "name": "Murore" },
-                { "id": "BR-C07-Z12-H03", "name": "Nyabugeni" },
-                { "id": "BR-C07-Z12-H04", "name": "Rutabo" },
-                { "id": "BR-C07-Z12-H05", "name": "Ruyaga" },
-                { "id": "BR-C07-Z12-H06", "name": "Rurira" }
-              ]
-            },
-            {
-              "id": "BR-C07-Z13",
-              "name": "Nyagisozi",
-              "hills_neighborhoods": [
-                { "id": "BR-C07-Z13-H01", "name": "Gitete" },
-                { "id": "BR-C07-Z13-H02", "name": "Kumana" },
-                { "id": "BR-C07-Z13-H03", "name": "Muvyuko" },
-                { "id": "BR-C07-Z13-H04", "name": "Muyange" },
-                { "id": "BR-C07-Z13-H05", "name": "Nyagisozi" },
-                { "id": "BR-C07-Z13-H06", "name": "Nyange" },
-                { "id": "BR-C07-Z13-H07", "name": "Ruheha" },
-                { "id": "BR-C07-Z13-H08", "name": "Sigu" }
-              ]
-            },
-            {
-              "id": "BR-C07-Z14",
-              "name": "Nyenzi",
-              "hills_neighborhoods": [
-                { "id": "BR-C07-Z14-H01", "name": "Mubuga" },
-                { "id": "BR-C07-Z14-H02", "name": "Ngoma" },
-                { "id": "BR-C07-Z14-H03", "name": "Nyenzi" },
-                { "id": "BR-C07-Z14-H04", "name": "Ruhongore" }
-              ]
-            },
-            {
-              "id": "BR-C07-Z15",
-              "name": "Shore",
-              "hills_neighborhoods": [
-                { "id": "BR-C07-Z15-H01", "name": "Bigombo" },
-                { "id": "BR-C07-Z15-H02", "name": "Coga" },
-                { "id": "BR-C07-Z15-H03", "name": "Santunda" },
-                { "id": "BR-C07-Z15-H04", "name": "Shore" }
+                { "id": "BR-C07-Z09-H01", "name": "Gakobe" },
+                { "id": "BR-C07-Z09-H02", "name": "Gaseri" },
+                { "id": "BR-C07-Z09-H03", "name": "Gifunzo" },
+                { "id": "BR-C07-Z09-H04", "name": "Jomati" },
+                { "id": "BR-C07-Z09-H05", "name": "Karibu" },
+                { "id": "BR-C07-Z09-H06", "name": "Kayove" },
+                { "id": "BR-C07-Z09-H07", "name": "Nyarubere" },
+                { "id": "BR-C07-Z09-H08", "name": "Quartier Gahuna" },
+                { "id": "BR-C07-Z09-H09", "name": "Quartier Karindo" },
+                { "id": "BR-C07-Z09-H10", "name": "Quartier Kigwati" },
+                { "id": "BR-C07-Z09-H11", "name": "Quartier Majambere" },
+                { "id": "BR-C07-Z09-H12", "name": "Quartier Mikurira" },
+                { "id": "BR-C07-Z09-H13", "name": "Quartier Mugembe" },
+                { "id": "BR-C07-Z09-H14", "name": "Quartier Rongero" },
+                { "id": "BR-C07-Z09-H15", "name": "Rushungura" },
+                { "id": "BR-C07-Z09-H16", "name": "Shoti" }
               ]
             }
           ]
@@ -3235,7 +3275,7 @@
       "stats": {
         "communes": 8,
         "zones": 102,
-        "hills_neighborhoods": 783,
+        "hills_neighborhoods": 790,
         "population": { "value": 2530206, "year": 2024 }
       },
       "communes": [
@@ -3812,7 +3852,10 @@
                 { "id": "BT-C04-Z03-H02", "name": "Cendajuru" },
                 { "id": "BT-C04-Z03-H03", "name": "Kabirizi" },
                 { "id": "BT-C04-Z03-H04", "name": "Kigobe" },
-                { "id": "BT-C04-Z03-H05", "name": "Kiziba" }
+                { "id": "BT-C04-Z03-H05", "name": "Kiziba" },
+                { "id": "BT-C04-Z03-H06", "name": "Ngere" },
+                { "id": "BT-C04-Z03-H07", "name": "Nyamisagara" },
+                { "id": "BT-C04-Z03-H08", "name": "Rwamikore" }
               ]
             },
             {
@@ -4191,7 +4234,11 @@
                 { "id": "BT-C05-Z11-H04", "name": "Gasare" },
                 { "id": "BT-C05-Z11-H05", "name": "Kibavu" },
                 { "id": "BT-C05-Z11-H06", "name": "Kivumu" },
-                { "id": "BT-C05-Z11-H07", "name": "Muganza" }
+                { "id": "BT-C05-Z11-H07", "name": "Muganza" },
+                { "id": "BT-C05-Z11-H08", "name": "Mvumvu" },
+                { "id": "BT-C05-Z11-H09", "name": "Ngoro" },
+                { "id": "BT-C05-Z11-H10", "name": "Nyarumanga" },
+                { "id": "BT-C05-Z11-H11", "name": "Ruganza" }
               ]
             }
           ]
@@ -4691,7 +4738,7 @@
       "stats": {
         "communes": 9,
         "zones": 101,
-        "hills_neighborhoods": 663,
+        "hills_neighborhoods": 664,
         "population": { "value": 2278215, "year": 2024 }
       },
       "communes": [
@@ -4950,7 +4997,7 @@
                 { "id": "GT-C02-Z13-H03", "name": "Kigufi" },
                 { "id": "GT-C02-Z13-H04", "name": "Musenga" },
                 { "id": "GT-C02-Z13-H05", "name": "Ndago" },
-                { "id": "GT-C02-Z13-H06", "name": "Nyakazi" },
+                { "id": "GT-C02-Z13-H06", "name": "Nyakinazi" },
                 { "id": "GT-C02-Z13-H07", "name": "Nyamirama" },
                 { "id": "GT-C02-Z13-H08", "name": "Nyamugari" },
                 { "id": "GT-C02-Z13-H09", "name": "Rurimbi" }
@@ -5313,7 +5360,8 @@
                 { "id": "GT-C04-Z09-H05", "name": "Rudaraza" },
                 { "id": "GT-C04-Z09-H06", "name": "Rutonganikwa" },
                 { "id": "GT-C04-Z09-H07", "name": "Ruyaga" },
-                { "id": "GT-C04-Z09-H08", "name": "Shanga" }
+                { "id": "GT-C04-Z09-H08", "name": "Shanga" },
+                { "id": "GT-C04-Z09-H09", "name": "Mayenzi" }
               ]
             },
             {
@@ -5388,10 +5436,10 @@
                 { "id": "GT-C04-Z16-H01", "name": "Bonero" },
                 { "id": "GT-C04-Z16-H02", "name": "Burenza" },
                 { "id": "GT-C04-Z16-H03", "name": "Mubaya" },
-                { "id": "GT-C04-Z16-H04", "name": "Munyanira" },
-                { "id": "GT-C04-Z16-H05", "name": "Rugazi" },
-                { "id": "GT-C04-Z16-H06", "name": "Rusengo" },
-                { "id": "GT-C04-Z16-H07", "name": "Tambi" }
+                { "id": "GT-C04-Z16-H04", "name": "Rugazi" },
+                { "id": "GT-C04-Z16-H05", "name": "Rusengo" },
+                { "id": "GT-C04-Z16-H06", "name": "Tambi" },
+                { "id": "GT-C04-Z16-H07", "name": "Munyinya" }
               ]
             }
           ]
