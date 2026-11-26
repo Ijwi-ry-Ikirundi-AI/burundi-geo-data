@@ -393,12 +393,6 @@ Les corrections sont les bienvenues.
 
 ---
 
-## Crédits
-
-Ce dépôt est un *fork* de [Ijwi-ry-Ikirundi-AI/burundi-geo-data](https://github.com/Ijwi-ry-Ikirundi-AI/burundi-geo-data), à l'origine de ce jeu de données.
-
----
-
 ## Licence
 
 Données ouvertes. Libre d'utilisation pour tout projet personnel, éducatif ou commercial.
